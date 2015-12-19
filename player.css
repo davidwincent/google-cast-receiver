@@ -36,14 +36,10 @@
 /* ------------------------------------------------- */
 
 body {
-  background-color: #000;
+  background-color: pink;
 }
 
 .player {
-  background-image: url("assets/background.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
   color: #f1f1f1;
   font-family: 'Open Sans',sans-serif;
   font-weight: 300;
